@@ -1,0 +1,15 @@
+.progress{
+  width: 50%;
+  margin: auto;
+}
+
+#regiration_form fieldset:not(:first-of-type){
+  display: none;
+}
+
+#regiration_form{
+  margin: auto;
+  padding: 0px;
+  width: 50%;
+  min-width: 40px;
+}
